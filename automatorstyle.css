@@ -1,0 +1,16 @@
+/* CSS for Automator.html */
+table{
+    border-collapse: separate;
+    border:1px solid;
+    /*border-bottom:1px solid black;*/
+    width:100%;
+}
+th{
+    text-align:left;
+}
+.passedResult{
+    color:green;
+}
+.failedResult{
+    color:red;
+}
